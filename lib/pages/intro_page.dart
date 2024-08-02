@@ -49,10 +49,6 @@ class IntroPage extends StatelessWidget {
                   ),
                 ),
 
-                ElevatedButton(onPressed: () {}, child: Container(
-                  child: Text("center"),
-                ),
-                style: ElevatedButton.styleFrom(),)
 
               ],
           ),
